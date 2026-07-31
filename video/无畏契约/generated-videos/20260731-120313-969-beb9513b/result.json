@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "task_id": 7258483,
+  "status": "succeed",
+  "output_dir": "/Users/liuxinyu/Desktop/projects/xinyu_github/knowledge-base/video/无畏契约/generated-videos/20260731-120313-969-beb9513b",
+  "response_attachment_urls": [
+    "https://venus-llm-1258344701.cos.ap-guangzhou.myqcloud.com/media/video/7258483/27306ff7-672d-4591-a9ac-bb7f5121ea9a/video-0.mp4?<redacted>"
+  ],
+  "downloaded_files": [
+    "/Users/liuxinyu/Desktop/projects/xinyu_github/knowledge-base/video/无畏契约/generated-videos/20260731-120313-969-beb9513b/00-video-0.mp4"
+  ],
+  "usage": [
+    {
+      "model": "seedance-2.0-with-video",
+      "sku_type": "completion_tokens",
+      "quantity": 682425
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "model": "seedance-2.0",
+  "generation_type": "text2video",
+  "params": {
+    "prompt": "成年东方女性战术治疗师，冷艳五官、青绿色眼睛、黑色高马尾。身穿白青紫配色的短款贴身战术上衣，露出纤细腰腹与自然肚脐，搭配低腰黑色护甲长裤和战术长靴，成熟性感且富有力量感。左手持黑色冲锋枪，右手托起发光的青绿色能量球，身后盘旋由翡翠火焰构成的东方龙灵。极低机位仰拍，全身动态构图，衣摆与能量流飞扬，精致动漫游戏CG风格。\n",
+    "resolution": "1080p",
+    "ratio": "9:16",
+    "duration": 7,
+    "seed": -1,
+    "generate_audio": true,
+    "watermark": false,
+    "return_last_frame": false,
+    "execution_expires_after": 172800,
+    "camera_fixed": false,
+    "reference_videos": [
+      {
+        "attachment": {
+          "bucketName": "venus-llm-1258344701",
+          "filepath": "mid-journey/attachments/xinyuxyliu/c3ddf6ed-912a-4935-8cfa-b00c212953b1-00.mp4"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": {
+    "task_id": 7254061,
+    "model": "seedance-2.0",
+    "service_type": "seedance",
+    "generative_type": "image2video",
+    "param": "{\"prompt\": \"生成7秒竖屏舞蹈视频。以参考视频为动作、节奏、姿态和运镜模板，将原人物替换为洛克王国芙蕾雅。\\n\\n面部五官、眼型和神态严格参考图1。重点强调：芙蕾雅全程用像看垃圾一样的眼神直视镜头，仿佛镜头前的人卑微、不值一提；眼神必须冷漠、厌恶、嫌弃、轻蔑且居高临下，半垂眼睑、眉形锐利、下巴轻抬，绝不露出甜美、友善或可爱的表情。全身服装、发型、翅膀和鞋靴参考图2。整体造型参考图2，腿部自然拉长20%。确保五官、服装和翅膀全程稳定。\\n\\n保持原舞蹈编排和卡点，动作干净利落、有力量、控制感强，姿态优雅且具有攻击性。略微低机位，以稳定全身跟拍和中近景为主。\\n\\n采用低饱和冷蓝紫色调、冷色侧逆光、轮廓光和高对比阴影，营造神秘危险的暗夜女王氛围。精致3D游戏动画质感，动作流畅，避免多余肢体、错误手指、五官漂移、服装闪烁和翅膀错位。\\n\", \"resolution\": \"1080p\", \"ratio\": \"adaptive\", \"duration\": 7, \"seed\": -1, \"generate_audio\": true, \"watermark\": false, \"return_last_frame\": false, \"execution_expires_after\": 172800, \"camera_fixed\": false, \"reference_images\": [{\"url\": \"<omitted: 1380114 bytes>\"}, {\"url\": \"<omitted: 829430 bytes>\"}], \"reference_videos\": [{\"attachment\": {\"bucketName\": \"venus-llm-1258344701\", \"filepath\": \"mid-journey/attachments/xinyuxyliu/d3e4d20c-30d1-49e9-8b80-b2bf6da64f4b-00.mp4\"}}]}",
+    "operator": "xinyuxyliu",
+    "status": "pending",
+    "status_message": "任务已提交，等待处理",
+    "attachment_urls": [],
+    "response_attachment_urls": [],
+    "create_time": 1785412370616,
+    "modify_time": 1785412370616
+  },
+  "success": true
+}

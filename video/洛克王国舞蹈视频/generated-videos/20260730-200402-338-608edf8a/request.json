@@ -1,0 +1,32 @@
+{
+  "model": "seedance-2.0",
+  "generation_type": "image2video",
+  "params": {
+    "prompt": "生成7秒竖屏舞蹈视频。以参考视频为动作、节奏、姿态和运镜模板，将原人物替换为洛克王国芙蕾雅。\n\n最高优先级是眼神和表情，必须明显、强烈并贯穿每一帧。面部五官严格参考图1。芙蕾雅始终直视镜头，像在俯视肮脏、恶心、毫无价值的垃圾：双眼明显眯起，上眼睑低压，一侧眉梢轻挑，下巴高抬，嘴角带厌恶而轻蔑的冷笑。她必须对镜头前的人表现出强烈的嫌弃、鄙夷、厌恶、不耐烦和居高临下，绝不能出现可爱、温柔、友善、无辜、惊讶或甜美表情。即使旋转、倒立或快速移动，眼睛也必须锁定镜头，轻蔑厌恶感不能减弱。\n\n全身服装、发型、翅膀和鞋靴参考图2，腿部自然拉长20%，确保造型全程稳定。保持原舞蹈编排和卡点，动作干净利落、有力量、控制感强。略微低机位，以稳定全身跟拍和中近景为主。\n\n采用低饱和冷蓝紫色调、冷色侧逆光和高对比阴影，营造危险的暗夜女王氛围。精致3D游戏动画质感，动作流畅，避免肢体错误、五官漂移、服装闪烁和翅膀错位。\n",
+    "resolution": "1080p",
+    "ratio": "adaptive",
+    "duration": 7,
+    "seed": -1,
+    "generate_audio": true,
+    "watermark": false,
+    "return_last_frame": false,
+    "execution_expires_after": 172800,
+    "camera_fixed": false,
+    "reference_images": [
+      {
+        "url": "data:image/png;base64,<omitted 1380092 base64 characters>"
+      },
+      {
+        "url": "data:image/png;base64,<omitted 829408 base64 characters>"
+      }
+    ],
+    "reference_videos": [
+      {
+        "attachment": {
+          "bucketName": "venus-llm-1258344701",
+          "filepath": "mid-journey/attachments/xinyuxyliu/aa43d885-a154-470e-9466-9d8fa6c9b436-00.mp4"
+        }
+      }
+    ]
+  }
+}

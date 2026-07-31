@@ -1,0 +1,32 @@
+{
+  "model": "seedance-2.0",
+  "generation_type": "image2video",
+  "params": {
+    "prompt": "参考这个视频，把里面的人物换成洛克王国的芙蕾雅。\n",
+    "resolution": "720p",
+    "ratio": "adaptive",
+    "duration": 7,
+    "seed": -1,
+    "generate_audio": true,
+    "watermark": false,
+    "return_last_frame": false,
+    "execution_expires_after": 172800,
+    "camera_fixed": false,
+    "reference_images": [
+      {
+        "url": "data:image/png;base64,<omitted 833708 base64 characters>"
+      },
+      {
+        "url": "data:image/png;base64,<omitted 1384392 base64 characters>"
+      }
+    ],
+    "reference_videos": [
+      {
+        "attachment": {
+          "bucketName": "venus-llm-1258344701",
+          "filepath": "mid-journey/attachments/xinyuxyliu/99e17010-1744-4a9f-8c3f-6698497d68b9-00.mp4"
+        }
+      }
+    ]
+  }
+}

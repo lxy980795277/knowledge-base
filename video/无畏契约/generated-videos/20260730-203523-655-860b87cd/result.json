@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "task_id": 7254576,
+  "status": "succeed",
+  "output_dir": "/Users/liuxinyu/Desktop/projects/xinyu_github/knowledge-base/video/generated-videos/20260730-203523-655-860b87cd",
+  "response_attachment_urls": [
+    "https://venus-llm-1258344701.cos.ap-guangzhou.myqcloud.com/media/video/7254576/d489296f-3ad5-4699-bf04-7e631556bc20/video-0.mp4?<redacted>"
+  ],
+  "downloaded_files": [
+    "/Users/liuxinyu/Desktop/projects/xinyu_github/knowledge-base/video/generated-videos/20260730-203523-655-860b87cd/00-video-0.mp4"
+  ],
+  "usage": [
+    {
+      "model": "seedance-2.0-with-video",
+      "sku_type": "completion_tokens",
+      "quantity": 682425
+    }
+  ]
+}

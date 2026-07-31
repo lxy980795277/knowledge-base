@@ -1,0 +1,19 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": {
+    "task_id": 7254366,
+    "model": "seedance-2.0",
+    "service_type": "seedance",
+    "generative_type": "image2video",
+    "param": "{\"prompt\": \"完全复刻原视频，把里面的角色替换为参考图里面的角色，保留黑色高马尾、青绿色能量、白青战术服和成熟性感气质。\\n\", \"resolution\": \"1080p\", \"ratio\": \"9:16\", \"duration\": 7, \"seed\": -1, \"generate_audio\": true, \"watermark\": false, \"return_last_frame\": false, \"execution_expires_after\": 172800, \"camera_fixed\": false, \"reference_images\": [{\"url\": \"<omitted: 2637698 bytes>\"}], \"reference_videos\": [{\"attachment\": {\"bucketName\": \"venus-llm-1258344701\", \"filepath\": \"mid-journey/attachments/xinyuxyliu/ed6563d6-71e5-45a2-9fd5-71f17ae5641f-00.mp4\"}}]}",
+    "operator": "xinyuxyliu",
+    "status": "pending",
+    "status_message": "任务已提交，等待处理",
+    "attachment_urls": [],
+    "response_attachment_urls": [],
+    "create_time": 1785414009714,
+    "modify_time": 1785414009714
+  },
+  "success": true
+}

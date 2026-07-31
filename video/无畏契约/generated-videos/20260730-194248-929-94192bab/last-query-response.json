@@ -1,0 +1,19 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": {
+    "task_id": 7253941,
+    "model": "seedance-2.0",
+    "service_type": "seedance",
+    "generative_type": "image2video",
+    "param": "{\"prompt\": \"完全复刻原视频，把里面的角色替换为参考图里面的角色，保留黑色高马尾、青绿色能量、白青战术服和成熟性感气质。\\n\", \"resolution\": \"1080p\", \"ratio\": \"9:16\", \"duration\": 7, \"seed\": -1, \"generate_audio\": true, \"watermark\": false, \"return_last_frame\": false, \"execution_expires_after\": 172800, \"camera_fixed\": false, \"reference_images\": [{\"url\": \"<omitted: 1231462 bytes>\"}], \"reference_videos\": [{\"attachment\": {\"bucketName\": \"venus-llm-1258344701\", \"filepath\": \"mid-journey/attachments/xinyuxyliu/c08583eb-a4c8-4066-a499-2b2e7cbb8c11-00.mp4\"}}]}",
+    "operator": "xinyuxyliu",
+    "status": "failed",
+    "status_message": "[OutputVideoSensitiveContentDetected.PolicyViolation] The request failed because the output video may be related to copyright restrictions. Request id: 02178541180032700000000000000000000ffffac1777f6f29da0",
+    "attachment_urls": [],
+    "response_attachment_urls": [],
+    "create_time": 1785411782000,
+    "modify_time": 1785412100000
+  },
+  "success": true
+}

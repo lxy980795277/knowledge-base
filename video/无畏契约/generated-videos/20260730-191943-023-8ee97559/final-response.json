@@ -1,0 +1,19 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": {
+    "task_id": 7253638,
+    "model": "seedance-2.0",
+    "service_type": "seedance",
+    "generative_type": "image2video",
+    "param": "{\"prompt\": \"参考这个视频，把里面的人物，换成无畏契约的奶妈（贤者）要求你参考原视频里，把角色刻画的性感一些\\n\", \"resolution\": \"720p\", \"ratio\": \"9:16\", \"duration\": 7, \"seed\": -1, \"generate_audio\": true, \"watermark\": false, \"return_last_frame\": false, \"execution_expires_after\": 172800, \"camera_fixed\": false, \"reference_images\": [{\"url\": \"<omitted: 1231462 bytes>\"}], \"reference_videos\": [{\"attachment\": {\"bucketName\": \"venus-llm-1258344701\", \"filepath\": \"mid-journey/attachments/xinyuxyliu/0f0dc9d3-9818-4f3d-8369-3a1e85439ff9-00.mp4\"}}]}",
+    "operator": "xinyuxyliu",
+    "status": "failed",
+    "status_message": "[OutputVideoSensitiveContentDetected.PolicyViolation] The request failed because the output video may be related to copyright restrictions. Request id: 02178541054970100000000000000000000ffffac1745506c1043",
+    "attachment_urls": [],
+    "response_attachment_urls": [],
+    "create_time": 1785410405000,
+    "modify_time": 1785410770000
+  },
+  "success": true
+}

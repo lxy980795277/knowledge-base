@@ -1,0 +1,19 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": {
+    "task_id": 7259497,
+    "model": "seedance-2.0",
+    "service_type": "seedance",
+    "generative_type": "text2video",
+    "param": "{\"prompt\": \"完全复刻原视频的三段式分镜、人物动作、构图与运镜，把图中的人物改为：原创东方女性战术治疗师，黑色高马尾，冷艳精致五官与青绿色眼眸。身穿白青紫配色的短款贴身战术服、银黑肩甲和低腰黑色战术裤，露出纤细腰腹与自然肚脐，腰间点缀青绿色能量晶体。整体气质成熟性感、冷静强势，精致动漫游戏CG风格。镜头切换速度为最高优先级：三段分镜采用硬切式甩镜匹配转场，每次转场必须在0.2秒内完成，只保留3—5帧方向性运动模糊，切点瞬间进入下一构图，不展示缓慢旋转或完整转场过程。禁止缓入缓出、慢动作、停顿、重复动作、拖帧和卡顿，整体节奏快速、干脆、紧凑。\\n\", \"resolution\": \"1080p\", \"ratio\": \"9:16\", \"duration\": 7, \"seed\": -1, \"generate_audio\": true, \"watermark\": false, \"return_last_frame\": false, \"execution_expires_after\": 172800, \"camera_fixed\": false, \"reference_videos\": [{\"attachment\": {\"bucketName\": \"venus-llm-1258344701\", \"filepath\": \"mid-journey/attachments/xinyuxyliu/186772c6-81f5-447c-8928-e3b9776f622d-00.mp4\"}}]}",
+    "operator": "xinyuxyliu",
+    "status": "pending",
+    "status_message": "任务已提交，等待处理",
+    "attachment_urls": [],
+    "response_attachment_urls": [],
+    "create_time": 1785478415109,
+    "modify_time": 1785478415109
+  },
+  "success": true
+}

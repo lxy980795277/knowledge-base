@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "task_id": 7254356,
+  "status": "succeed",
+  "output_dir": "/Users/liuxinyu/Desktop/projects/xinyu_github/knowledge-base/cartoon/洛克王国舞蹈视频/generated-videos/20260730-201828-659-06df070e",
+  "response_attachment_urls": [
+    "https://venus-llm-1258344701.cos.ap-guangzhou.myqcloud.com/media/video/7254356/2442e97f-4c9b-44aa-96c3-8847a32592da/video-0.mp4?<redacted>"
+  ],
+  "downloaded_files": [
+    "/Users/liuxinyu/Desktop/projects/xinyu_github/knowledge-base/cartoon/洛克王国舞蹈视频/generated-videos/20260730-201828-659-06df070e/00-video-0.mp4"
+  ],
+  "usage": [
+    {
+      "model": "seedance-2.0-with-video",
+      "sku_type": "completion_tokens",
+      "quantity": 682425
+    }
+  ]
+}
